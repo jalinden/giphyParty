@@ -1,0 +1,17 @@
+.button{
+    width: 100px;
+    height: 23px;
+    vertical-align: middle;
+    background-color: red;
+}
+.form{
+    margin: 0 auto; 
+    width:450px;
+}
+.h1{
+    text-align: center;
+    color: aqua;
+}
+.body{
+    background-color: black;
+}
